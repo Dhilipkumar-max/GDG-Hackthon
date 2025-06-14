@@ -1,7 +1,7 @@
 # GDG Project
 
 A modern web application built with TypeScript, Vite, and Supabase.
-
+![Todo List Dashboard](https://i.postimg.cc/9MJgLYpV/image.png)
 ## 🚀 Tech Stack
 
 - **Frontend Framework**: React with TypeScript
